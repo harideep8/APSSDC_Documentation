@@ -9,12 +9,7 @@ Welcome to APSSDC Documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   first.md
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
