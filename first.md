@@ -1,6 +1,6 @@
 # Chapter 1
 
-Sphinx
-readthedocs
-Remotes 
-Branches
+- Sphinx
+- readthedocs
+- Remotes 
+- Branches
